@@ -9,7 +9,7 @@ _ git commit
 -git show - displays the commits (logs)
   125  git status
   126  git commit -am |'updated readme file with new commands'
-  127  git show
+  127  git showgit
   128  git log
   129  git branch
   130  clear
