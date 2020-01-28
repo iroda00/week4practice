@@ -5,6 +5,7 @@ _ git init
 _ git status
 _ git add .
 _ git commit
+,,,
 - combining the commands  >>git add . | git commit -m 'comment'
 -git show - displays the commits (logs)
   125  git status
@@ -17,3 +18,7 @@ _ git commit
   132  git checkout -b iroda2
   133  history | tail 
   134  history | tail >> README.md
+
+## 01/26/2020
+## Take aways from git sessions
+
