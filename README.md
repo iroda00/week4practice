@@ -1,6 +1,6 @@
 # git basics
 
-## recap of thebprevious class
+## recap of the previous class
 _ git init
 _ git status
 _ git add .
@@ -21,4 +21,18 @@ _ git commit
 
 ## 01/26/2020
 ## Take aways from git sessions
+* local
+-create a git repository: creare a folder. initialize git (tracking)
+''' git init
+# add some files (text, python etc) or update, add al file to tracking system (git)
+git add .
+git commit -m  'meaningful message that summurizes your changes'
+# if you want to publish : create repo in github, copy the url that ends with .git  
+git set-upstream origin url
+git push
+# add files to '.gitignore' there is . because there is hidden file.
+if you dont want include some files to track or publish  use
+git ignore
+cat >> .gitignore
+
 
