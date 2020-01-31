@@ -18,7 +18,7 @@ _ git commit
   132  git checkout -b iroda2
   133  history | tail 
   134  history | tail >> README.md
-
+# This is my changes in README
 ## 01/26/2020
 ## Take aways from git sessions
 * local
