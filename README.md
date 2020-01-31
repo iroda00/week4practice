@@ -9,3 +9,5 @@ git commit[D[D[D[D[D[D[D[D[D[D- [F
 [F
 [C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[Agitgit commit
 
+- combining commands >> git add . | git commit -m "comment"
+- git show  -  displays logs[D[D[D[Dcommits (logs)
