@@ -8,7 +8,7 @@
 git commit[D[D[D[D[D[D[D[D[D[D- [F
 [F
 [C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[Agitgit commit
-
+  exercisez gor github
 - combining commands >> git add . | git commit -m "comment"
 - git show  -  displays logs[D[D[D[Dcommits (logs)
   345  git commit -m "updated file"
@@ -21,3 +21,5 @@ git commit[D[D[D[D[D[D[D[D[D[D- [F
   352  clear
   353  history | tail 
   354  history | tail >> README.md
+  === This is a modifications made in github
+  
